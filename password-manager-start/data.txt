@@ -1,0 +1,4 @@
+abc|1234@gmail.com|12345454|1234@gmail.com|2346565amazon|1234@gmail.com|12345
+1234|1234@gmail.com|abc
+|1234@gmail.com|
+dd|1234@gmail.com|*RqamZvDV!coF+Be
